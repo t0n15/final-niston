@@ -1,0 +1,31 @@
+body {
+    padding-top: 70px;
+    background-color:gray;
+    font-family: times new roman;
+}
+
+.hidden {
+    display: none;
+}
+
+.navbar {
+	background-color: maroon;
+	font-family: geneve;
+	font-size: 13pt;
+}
+
+.btn-view, .btn-delete, .btn-edit, {
+	color: red;
+	background-color: gray;
+	border-radius: 15pt;
+
+}
+
+.thesis-list{
+	background-color: gray;
+	border-radius: 15pt;
+}
+
+h2{
+	font-family: geneve;
+}
